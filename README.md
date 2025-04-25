@@ -38,4 +38,4 @@ Models used:
 - Feature selection based on correlation and PDP insights
 - Hyperparameter tuning via `RandomizedSearchCV`
 - Evaluation metric:  
-  `Score = max(0, 100 - RMSE)
+  Score = max(0, 100 - RMSE)
